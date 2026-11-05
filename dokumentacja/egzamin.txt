@@ -1,0 +1,7 @@
+System operacyjny: Windows 11
+Środowisko programistyczne:
+- Idle
+- Visual Studio Code
+Język programowania: 
+- Python
+- React.js
